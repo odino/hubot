@@ -26,7 +26,10 @@
   "dependencies": {
     "hubot":         ">= 2.5.0",
     "hubot-scripts": ">= 2.4.2",
-    "hubot-hipchat": ">= 2.4.5"
+    "hubot-hipchat": ">= 2.4.5",
+    "cheerio: "0.7.0",
+    "htmlparser": "1.7.6",
+    "soupselect: "0.2.0"
   },
 
   "engines": {
